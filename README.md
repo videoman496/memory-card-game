@@ -1,8 +1,11 @@
-# React + Vite
+# Poké-MemoCard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+This project was created for the [Memory Card assignment](https://www.theodinproject.com/lessons/node-path-react-new-memory-card) as part of [The Odin Project](https://www.theodinproject.com/) curriculum. It features an application built with React where the goal is to click on each Pokémon only once. Every time you click a Pokémon, the order of the cards shuffles, making it increasingly challenging to remember which ones you've already clicked.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+
+-   **React**
+-   **PokeAPI**
+-   **HTML,CSS**
